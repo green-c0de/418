@@ -1,0 +1,6 @@
+{
+  "name": "Librairie Amine — Librairie, Papeterie & Fournitures à Aït Melloul",
+  "description": "Boutique en ligne officielle de la Librairie Amine à Aït Melloul, Maroc : fournitures scolaires, articles de bureau, livres, beaux-arts et livraison au Maroc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
